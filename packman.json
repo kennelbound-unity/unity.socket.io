@@ -1,0 +1,7 @@
+{
+  "name": "unity.socket.io",
+  "export": "Assets",
+  "dependencies": [
+    "kennelbound/SaladLab.Json.Net.Unity3d"
+  ]
+}
